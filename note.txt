@@ -1,0 +1,7 @@
+echo '# restatuarnt" >> README.md;
+git init
+git add .
+git commit -m 'project init'
+git branch -M master
+git remote origin ....
+git push -u origin master
